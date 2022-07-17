@@ -10,7 +10,7 @@
 <div class="col col-lg-12 mainbox" style="background-color:white;padding:10px">
     <center>
     <div class="col col-lg-4 box">
-        <h2>Patients</h2>
+        <h2>Patients Login</h2>
         <h4>Register & Book Appointment</h4>
         <a href="patient_login.php"> Click Here</a>
     </div>
